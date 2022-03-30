@@ -12,7 +12,7 @@ hello all tribism.
 
 announcement of how to create DAPP (web3 / decentralized application) on Tribe platform.
 
-for declare at the start: 2 ways for doing this perpuse/goal.
+for declare at the startbegin: 2 ways for doing this perpuse/goal.
 
 ### 1- from core (just the main core developers can do this)
 
