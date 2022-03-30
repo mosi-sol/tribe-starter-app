@@ -2,6 +2,7 @@
 ---
 
 tribe web3 proposal -> [watch here](https://relay.tribeplatform.com/general/post/web3-on-tribe-q4sqVCoWdfLyUBB)
+
 ---
 
 # WEB3 on Tribe 
