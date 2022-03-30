@@ -46,7 +46,7 @@ if(ethereum.isMetaMask) {
 sadly this code need 2 things:
 
 - 1.installed metamask on client side.
-- 2.loged in (not locked wallet).
+- 2.loged in (not locked wallet). <-- fixed
 
 ---
 
