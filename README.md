@@ -7,7 +7,7 @@ tribe web3 proposal -> [watch here](https://relay.tribeplatform.com/general/post
 
 # WEB3 on Tribe 
 
-WEB3 on Tribe
+WEB3 on Tribe: 
 hello all tribism.
 
 announcement of how to create DAPP (web3 / decentralized application) on Tribe platform.
