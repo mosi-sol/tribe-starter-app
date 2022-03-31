@@ -59,4 +59,4 @@ my name is mosi (mosipvp[at]gmail).{from 42 person has invited}
 
 
 ### atfer reading this file, now watch [DEMO](https://relay.tribeplatform.com/)
-just remember to unlock metamask for testing the code.
+ 
