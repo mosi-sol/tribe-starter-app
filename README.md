@@ -18,7 +18,7 @@ for declare at the start/begin: 2 ways for doing this perpuse/goal.
 
 ### 1- from core (just the main core developers can do this)
 
-***the first way*** : need to implement some dependencies on react(react is the core i think), then make module for users, simple and easy.
+***the first way*** : need to implement some dependencies on react(react is the core i think), then make module for users, simple and easy. for more information watch this [link](https://github.com/mosi-sol/react-sdk-tutorial/blob/main/README.md)
 
 ### 2- from user dashboard interface.
 
