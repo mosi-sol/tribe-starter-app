@@ -52,7 +52,7 @@ sadly this code need 2 things:
 
 this post/proposal just for core team member (siavash mahmoudian), because i want to be a part of TRIBE team as soon :)
 
-my name is mosi (mosipvp@gmail.com).{from 42 person has invited}
+my name is mosi (mosipvp[at]gmail).{from 42 person has invited}
 
 
 
