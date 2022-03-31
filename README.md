@@ -2,6 +2,7 @@
 ---
 
 tribe web3 proposal -> [watch here](https://relay.tribeplatform.com/general/post/web3-on-tribe-q4sqVCoWdfLyUBB)
+
 tribe react web3 doc -> [read here](https://github.com/mosi-sol/react-sdk-tutorial/blob/main/README.md)
 
 ---
